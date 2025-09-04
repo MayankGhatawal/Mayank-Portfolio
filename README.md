@@ -14,8 +14,6 @@ A modern, animated 3D developer portfolio built with React, Three.js, TailwindCS
 - [Getting Started](#-getting-started)
 - [Assets](#-assets)
 - [Contact Me](#-contact-me)
-- [Suggestions or Feedback](#-suggestions-or-feedback)
-- [Like This Project?](#-like-this-project)
 
 ---
 
@@ -100,4 +98,4 @@ Let me know!
 ---
 
 ## ⭐ Like This Project?
-Star the repo and [subscribe](https://www.youtube.com/channel/UCZhtUWTtk3bGJiMPN9T4HWA??sub_confirmation=1) to the YouTube channel for more dev content!
+Star the repo and [subscribe](https://www.youtube.com/@Monta_Gamerz) to the YouTube channel for more dev content!
